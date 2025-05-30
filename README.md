@@ -7,8 +7,6 @@ Welcome to my GitHub profile! I'm a computer technician with a passion for progr
 - **Mastering**: Nim.
 - **Interests**: Programming.
 
-Rewrite in Nim
-
 <!---
 ## 💼 Professional Background
 
