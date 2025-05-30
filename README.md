@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Gabriel Capilla
 
-Welcome to my GitHub profile! I'm a computer technician with a passion for programming, efficiency, and security. Here, you'll find some of my projects and contributions. Currently familiar with Bash, Lua, Git, GitHub CLI and Radicle.
+Welcome to my GitHub profile! I'm a computer technician with a passion for programming, efficiency, and security. Here, you'll find some of my projects and contributions.
 
 ## 🌱 Now
 
-- **Learning**: Nim, with a focus on improving my skills in this language.
-- **Interests**: Programming, code efficiency, cybersecurity, and decentralized development.
+- **Mastering**: Nim.
+- **Interests**: Programming.
+
+Rewrite in Nim
 
 <!---
 ## 💼 Professional Background
