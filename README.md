@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Gabriel Capilla
 
-Welcome to my GitHub profile! I'm a computer technician with a passion for programming, efficiency, and security. Here, you'll find some of my projects and contributions.
+Welcome to my GitHub profile!
+
+Here, you'll find some of my projects and contributions. Mostly, I develop customized tools created for my individual needs.
 
 ## 🌱 Now
 
-- **Mastering**: Nim.
-- **Interests**: Programming.
+- Mastering Nim.
+- Rewriting some tools in Nim.
 
-<!---
+<!--- Secret?
 ## 💼 Professional Background
 
 - **Tech Influencer since 2016**: Meet me as _UnboxMeSpain_
