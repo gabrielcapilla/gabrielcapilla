@@ -5,9 +5,11 @@ Welcome to my GitHub profile!
 Here, you'll find some of my projects and contributions. Mostly, I develop customized tools created for my individual needs.
 
 ## 🌱 Now
-
-- Mastering Nim.
-- Rewriting some tools in Nim.
+- Learning Go
+- Learning Raylib
+- Learning Bubbletea
+- Mastering Nim
+- Rewriting some tools in Nim
 
 <!--- Secret?
 ## 💼 Professional Background
