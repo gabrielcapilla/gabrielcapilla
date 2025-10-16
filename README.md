@@ -1,15 +1,20 @@
 # 👋 Hi, I'm Gabriel Capilla
 
-Welcome to my GitHub profile!
+Welcome to my profile!
 
 Here, you'll find some of my projects and contributions. Mostly, I develop customized tools created for my individual needs.
 
 ## 🌱 Now
+
 - Learning Go
 - Learning Raylib
 - Learning Bubbletea
 - Mastering Nim
 - Rewriting some tools in Nim
+
+## Decentralization
+
+I am currently integrating decentralized features into my projects. I manage my repositories both on GitHub and with Radicle for peer-to-peer and distributed collaboration. I am seeking to maintain compatibility between both environments (GitHub ↔ Radicle).
 
 <!--- Secret?
 ## 💼 Professional Background
