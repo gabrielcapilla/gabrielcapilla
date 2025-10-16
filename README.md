@@ -12,7 +12,7 @@ Here, you'll find some of my projects and contributions. Mostly, I develop custo
 - Mastering Nim
 - Rewriting some tools in Nim
 
-## Decentralization
+## 🐙 Decentralization
 
 I am currently integrating decentralized features into my projects. I manage my repositories both on GitHub and with Radicle for peer-to-peer and distributed collaboration. I am seeking to maintain compatibility between both environments (GitHub ↔ Radicle).
 
