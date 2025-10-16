@@ -14,7 +14,7 @@ Here, you'll find some of my projects and contributions. Mostly, I develop custo
 
 ## 🐙 Decentralization
 
-I am currently integrating decentralized features into my projects. I manage my repositories both on GitHub and with Radicle for peer-to-peer and distributed collaboration. I am seeking to maintain compatibility between both environments (GitHub ↔ Radicle).
+I am currently integrating decentralized features into my projects. I manage my repositories both on [GitHub](https://github.com/gabrielcapilla) and with [Radicle](https://app.radicle.xyz/nodes/ash.radicle.garden/users/z6MkoG87tbXbvL4E1XemyjJ23vC6Dyj8yUmVg45L9dJB5b78) for peer-to-peer and distributed collaboration. I am seeking to maintain compatibility between both environments (GitHub ↔ Radicle).
 
 <!--- Secret?
 ## 💼 Professional Background
