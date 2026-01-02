@@ -2,15 +2,13 @@
 
 Welcome to my profile!
 
-Here, you'll find some of my projects and contributions. Mostly, I develop customized tools created for my individual needs.
+Here, you'll find some of my projects and contributions. I develop customized tools created for my individual needs.
 
 ## 🌱 Now
 
-- Learning Go
-- Learning Raylib
-- Learning Bubbletea
-- Mastering Nim
-- Rewriting some tools in Nim
+- Learning [Odin](https://odin-lang.org/)
+- Mastering [Nim](https://nim-lang.org/)
+- Mastering Data Oriented Programming
 
 ## 🐙 Decentralization
 
